@@ -1,0 +1,35 @@
+Dentro do HTML é possível ter apenas 6 <head>
+
+<h1> é o mais importante e fica no cabeçalho do site, dentro das tags temos o 
+
+
+<hr /> = Faz uma quebra de linha
+<p> = Paragrafo onde é possível escrever qualquer texto
+<a href="> = Serve para colocar links que levam para sites externos, a tag também serve para que seja incluido número de telefone e email na pagina 
+<b> = Serve para colocar em negrito a parte do texto que estiver dentro porém é apensa visual
+<strong> = Serve para colocar em negrito a parte do texto que estiver dentro,porém torna a palavra importante
+<br /> = para quebrar a linha
+<i> = Para deixa em Italico visual
+<em> = Para deixar Italico com semantica 
+<mark> = Adiciona um marca texto na palavra
+<del> = indicando que o conteudo foi deletado
+<small> = Diminui o tamanho da palavra
+<span> = Para alteração css ou JavaScript
+<blockquote> = para colocar sitações na pagina
+<address> = Para Endereço Fisico
+
+Containers:
+
+Tags HTML5 
+1) <header>: utilizada para criar um cabeçalho. 
+2) <footer>: utilizada para criar um rodapé. 
+3) <main>: utilizada para conter o conteúdo principal da página. 
+4) <aside>: utilizada para construir barras laterais. 
+5) <section>: utilizada para dividir o conteúdo em seções. 
+6) <article>: utilizada para criar artigos e posts. 
+7) <nav>: utilizada para criar menus de navegação
+
+
+TAGS:
+
+<img src="" alt="">  - src para caminho e alt para descrição
